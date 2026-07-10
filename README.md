@@ -136,11 +136,9 @@
 
 <div align="center">
 
-<!-- Profile Summary Cards — more reliable than github-readme-stats public instance -->
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ItxMatti&theme=tokyonight"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ItxMatti&theme=tokyonight"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ItxMatti&theme=tokyonight"/>
+<!-- GitHub Stats Extended — actively maintained fork of github-readme-stats, themed to match the neon palette -->
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=ItxMatti&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0d1117&title_color=00f5ff&icon_color=00b4d8&text_color=cdd6f4&ring_color=00f5ff"/>
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ItxMatti&layout=pie&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0d1117&title_color=00f5ff&text_color=cdd6f4"/>
 
 </div>
 
