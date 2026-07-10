@@ -54,7 +54,7 @@
     <td><img src="https://img.shields.io/badge/📚%20Degree-BS%20Computer%20Science-0d1117?style=flat-square&labelColor=302b63&color=0d1117"/></td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/📅%20Semester-6th%20Semester-0d1117?style=flat-square&labelColor=1a1a2e&color=0d1117"/></td>
+    <td><img src="https://img.shields.io/badge/📅%20Semester-7th%20Semester-0d1117?style=flat-square&labelColor=1a1a2e&color=0d1117"/></td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/📍%20Location-Pakistan%20🇵🇰-0d1117?style=flat-square&labelColor=302b63&color=0d1117"/></td>
@@ -109,10 +109,8 @@
 **🌐 Frameworks & Libraries**
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 
 **🗄️ Databases & Tools**
